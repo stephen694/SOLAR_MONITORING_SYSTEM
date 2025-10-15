@@ -1,2 +1,5 @@
 # SOLAR_MONITORING_SYSTEM
 SOLAR MONITORING SYSTEM
+
+## Collaborators
+1. Masika - Supervisor
